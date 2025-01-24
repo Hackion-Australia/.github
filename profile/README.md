@@ -1,4 +1,4 @@
-![Hackion Logo 2](images/Hackion_Logo2.png) 
+![Hackion Logo 2](/images/Hackion_Logo2.png) 
 
 Hello world!
 
